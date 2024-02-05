@@ -1,4 +1,4 @@
-Hello My Name is Bijang, I am a DataEnginer Working At Artience
+Hello My Name is Bijang, I am a DataEnginer Working At Seoul
 
 - My major is ComputerScience since 2016
 - My main language is Python.
